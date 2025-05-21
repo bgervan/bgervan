@@ -31,9 +31,10 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
   - A docker swarm CLI and SAAS tool to deploy applications with databases seamlessly. With autoscaling capabilities.
 
 * **Python Packages:**
-    * [Paddle Billing SDK](https://github.com/bgervan/paddle-billing-sdk): Python SDK for Paddle's next-generation billing API.
-    * [Django Paddle Billing](https://github.com/bgervan/django-paddle-billing): Django integration layer for the Paddle Billing service.
+    * [Paddle Billing SDK](https://github.com/websideproject/paddle-billing-client): Python SDK for Paddle's next-generation billing API.
+    * [Django Paddle Billing](https://github.com/websideproject/django-paddle-billing): Django integration layer for the Paddle Billing service.
     * Django Workspaces: (Currently closed source, WIP) Multi-tenant SAAS solution for Django, featuring per-workspace RBAC and object-level permissions.
+    * Django API framework: (WIP) Similar to ninja, but using msgspec to reach the best performance possible.
 
 ---
 
