@@ -20,16 +20,17 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
 ## 💡 Side Projects
 
 * **Websideproject.com**
-  - WIP
-  - Nuxt and ShadcnUI
-  - (Personal Portfolio & Blog)
+  - Nuxt Content with Nuxt UI
+  - Batteries inlcuded landing page building service
+  <!--
   - Developing an open-source SAAS Blueprint boilerplate using Django and Vue.js.
   - Hosts documentation for personal open-source packages and a personal blog.
-
+  -->
+<!--
 * **Deployment SAAS**
   - WIP
   - A docker swarm CLI and SAAS tool to deploy applications with databases seamlessly. With autoscaling capabilities.
-
+-->
 * **Python Packages:**
     * [Paddle Billing SDK](https://github.com/websideproject/paddle-billing-client): Python SDK for Paddle's next-generation billing API.
     * [Django Paddle Billing](https://github.com/websideproject/django-paddle-billing): Django integration layer for the Paddle Billing service.
@@ -45,6 +46,21 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
 <!--
 [![Top Langs](https://github-readme-bgervan.vercel.app/api/top-langs/?username=bgervan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgervan&theme=radical&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-mocha-two.vercel.app?user=bgervan&theme=radical)](https://git.io/streak-stats)
 
 ---
 
