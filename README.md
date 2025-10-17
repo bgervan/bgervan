@@ -41,26 +41,28 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
 
 ## 📊 GitHub Stats
 
-[![Benjámin's GitHub Stats](https://github-readme-bgervan.vercel.app/api?username=bgervan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-bgervan.vercel.app/api?username=bgervan&show_icons=true&theme=radical" alt="Benjámin's GitHub stats"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats-mocha-two.vercel.app?user=bgervan&theme=radical" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <!--
 [![Top Langs](https://github-readme-bgervan.vercel.app/api/top-langs/?username=bgervan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
----
-
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgervan&theme=radical&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contribution
+### 🐍 Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-mocha-two.vercel.app?user=bgervan&theme=radical)](https://git.io/streak-stats)
 
 ---
 
