@@ -12,8 +12,8 @@ At **[websideproject](https://websideproject.com)**, my core offering is buildin
 
 ### Primary Service
 *   **⚡ Modular Landing Pages:** Custom Nuxt sites deployed to the Edge.
-    *   *Add-on Modules:* **Feedback Board**, **Newsletter**, **Blog**, **Docs**, **i18n**, **Forms**.
-    *   *Value:* You own the code. No monthly fees for these features.
+    *   *Add-on Modules:* **Feedback Board**, **Newsletter**, **Blog**, **Docs**, **i18n**, **Forms** (and growing).
+    *   *Value:* **You own your data.** Includes a perpetual license to use the codebase for your business.
 
 ### Additional Services
 *   **🚀 MVP Development:** Rapid prototyping for your actual SaaS application (webapp).
@@ -21,7 +21,7 @@ At **[websideproject](https://websideproject.com)**, my core offering is buildin
 *   **🏗️ SaaS Architecture:** Consulting on multi-tenancy, security, and scaling.
 
 ### The websideproject Stack
-I deploy complete digital infrastructures where **you own the data**.
+I deploy complete digital infrastructures where **you own the data** (while I retain the core IP).
 
 | Layer | Technology |
 | :--- | :--- |
@@ -90,15 +90,16 @@ My expertise is built on a decade of delivering robust software for companies ac
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgervan&theme=radical&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🐍 Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
-</picture>
 -->
 
+### 🐍 Contribution
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!--
 **bgervan/bgervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
