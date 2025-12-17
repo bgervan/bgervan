@@ -85,9 +85,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img
-  src="https://umami.websideproject.com/p/PUocy9ONR?website_id=YOUR_WEBSITE_ID&url=https://github.com/USERNAME/REPO"
-  width="1"
-  height="1"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://umami.websideproject.com/p/PUocy9ONR">
+  <source media="(prefers-color-scheme: light)" srcset="https://umami.websideproject.com/p/PUocy9ONR">
+  <img alt="" src="https://umami.websideproject.com/p/PUocy9ONR">
+</picture>
