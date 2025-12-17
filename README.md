@@ -1,45 +1,76 @@
-### Hi there 👋
+### Hi there, I'm Benjámin 👋
 
-# Benjámin Gerván
-### Senior Full Stack Developer
+# Founder & Technical Lead @ [websideproject](https://websideproject.com)
 
-Highly accomplished Senior Full Stack Developer with a decade of extensive experience in architecting and delivering robust, scalable applications and providing technical guidance to development teams.
-
----
-
-## 🛠️ Skills
-
-* **Backend:** Python, Django, PHP, Laravel, Node.js (if applicable), REST APIs, gRPC, WebSockets
-* **Frontend:** Vue.js (incl. ShadcnUI), JavaScript, HTML, CSS, Inertia.js, Jetpack Compose (Android), Swift (iOS)
-* **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), AWS, GCP, Hetzner, Docker Swarm, Self-hosting, Terraform
-* **Databases & Caching:** SQL, Redis
-* **Tools & Methodologies:** Git & GitHub, Linux, Automated Testing, Jira, Confluence, Agile
+I am a Senior Full Stack Developer turned Agency Founder. I run **websideproject**, where I help SaaS founders launch faster with production-ready landing pages and scalable architecture.
 
 ---
 
-## 💡 Side Projects
+## 💼 Agency Services
 
-* **Websideproject.com**
-  - Nuxt Content with Nuxt UI
-  - Batteries inlcuded landing page building service
-  <!--
-  - Developing an open-source SAAS Blueprint boilerplate using Django and Vue.js.
-  - Hosts documentation for personal open-source packages and a personal blog.
-  -->
-<!--
-* **Deployment SAAS**
-  - WIP
-  - A docker swarm CLI and SAAS tool to deploy applications with databases seamlessly. With autoscaling capabilities.
--->
-* **Python Packages:**
-    * [Paddle Billing SDK](https://github.com/websideproject/paddle-billing-client): Python SDK for Paddle's next-generation billing API.
-    * [Django Paddle Billing](https://github.com/websideproject/django-paddle-billing): Django integration layer for the Paddle Billing service.
-    * Django Workspaces: (Currently closed source, WIP) Multi-tenant SAAS solution for Django, featuring per-workspace RBAC and object-level permissions.
-    * Django API framework: (WIP) Similar to ninja, but using msgspec to reach the best performance possible.
+At **[websideproject](https://websideproject.com)**, my core offering is building **high-performance landing pages** with "batteries-included" modules. I also provide full-stack MVP development for founders who need a complete technical partner.
+
+### Primary Service
+*   **⚡ Modular Landing Pages:** Custom Nuxt sites deployed to the Edge.
+    *   *Add-on Modules:* **Feedback Board**, **Newsletter**, **Blog**, **Docs**, **i18n**, **Forms**.
+    *   *Value:* You own the code. No monthly fees for these features.
+
+### Additional Services
+*   **🚀 MVP Development:** Rapid prototyping for your actual SaaS application (webapp).
+*   **📡 Offline-First Apps:** Building resilient systems using Local-First principles.
+*   **🏗️ SaaS Architecture:** Consulting on multi-tenancy, security, and scaling.
+
+### The websideproject Stack
+I deploy complete digital infrastructures where **you own the data**.
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | **Nuxt 4 + Nuxt UI** (Type-safe, SEO-optimized) |
+| **Backend** | **Nuxt Server** (Serverless) or **Django** (Complex API) |
+| **Infrastructure** | **Cloudflare** (Pages, D1 DB, R2 Storage) |
+| **Modules** | **Feedback**, **Newsletter**, **Forms**, **Blog**, **i18n** (Built-in) |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Founder's Tech Profile
+
+My personal technical toolbelt extends beyond the agency stack, allowing me to handle complex, custom requirements.
+
+*   **Languages:** Python, PHP, JavaScript/TypeScript, Swift, Kotlin
+*   **Frameworks:** Django, Laravel, Vue.js, Inertia.js, Filament
+*   **DevOps:** Docker Swarm, Kubernetes, Terraform, AWS, GCP, Hetzner
+*   **Specialties:** Test Automation, Microservices (gRPC), GIS/Location Services
+
+---
+
+## 🏗️ 10 Years of Proven Experience
+
+My expertise is built on a decade of delivering robust software for companies across Canada and Europe.
+
+*   **High-Scale SaaS (Marketpedia):** Led a full-stack rewrite using **Laravel, Inertia.js (Vue), and Filament**, reducing page loads from 10s to <1s. Dockerized the legacy monolith and built CI/CD pipelines.
+*   **Safety-Critical Systems:** Architected low-latency backends using **Python (Django), gRPC, and Redis**. Built native mobile apps (Jetpack Compose/Swift) for real-time location tracking.
+*   **Test Automation (NNG):** Designed enterprise-grade automation frameworks using **PHP and Python (Robot Framework)** for critical automotive software.
+
+---
+
+## 📦 Open Source & Tools
+
+*   **[Paddle Billing SDK](https://github.com/websideproject/paddle-billing-client):** Python SDK for Paddle's next-gen billing.
+*   **[Django Paddle Billing](https://github.com/websideproject/django-paddle-billing):** Seamless Django integration.
+*   **Deployment SAAS (WIP):** A Docker Swarm CLI tool for seamless database and app deployments.
+
+---
+
+## 📧 Connect
+
+*   **Agency:** [websideproject.com](https://websideproject.com)
+*   **LinkedIn:** [Benjamin Gervan](https://www.linkedin.com/in/benjamin-gervan/)
+*   **Email:** benjamin@websideproject.com
+*   **GitHub:** [bgervan](https://github.com/bgervan) | [websideproject](https://github.com/websideproject)
+
+---
+
+## 📊 Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,9 +81,12 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
   </a>
 </div>
 
+<!-- Tracking -->
+<img src="https://umami.websideproject.com/p/PUocy9ONR" alt="" />
+
 <!--
 [![Top Langs](https://github-readme-bgervan.vercel.app/api/top-langs/?username=bgervan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgervan&theme=radical&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
@@ -63,13 +97,8 @@ Highly accomplished Senior Full Stack Developer with a decade of extensive exper
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgervan/bgervan/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
----
-
-## 📧 Contact
-
-* **LinkedIn:** [Benjamin Gervan](https://www.linkedin.com/in/benjamin-gervan/)
-* **GitHub:** [bgervan](https://github.com/bgervan) | [websideproject](https://github.com/websideproject)
 
 <!--
 **bgervan/bgervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
